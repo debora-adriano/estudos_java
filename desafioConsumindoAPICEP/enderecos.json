@@ -1,0 +1,18 @@
+[
+  {
+    "cep": "93040-330",
+    "logradouro": "Rua Doutor João Dutra",
+    "complemento": "",
+    "bairro": "Rio Branco",
+    "localidade": "São Leopoldo",
+    "uf": "RS"
+  },
+  {
+    "cep": "93040-320",
+    "logradouro": "Rua Aurélio Porto",
+    "complemento": "",
+    "bairro": "Rio Branco",
+    "localidade": "São Leopoldo",
+    "uf": "RS"
+  }
+]
